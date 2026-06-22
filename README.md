@@ -3,10 +3,9 @@
 </p>
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?
-          style=for-the-badge
-          &logo=Python
-          &logoColor=white"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+</p>
 
 only Python :(
 
@@ -18,3 +17,11 @@ ZexPilot (worse version of Vexton?) : [LINK](https://github.com/EJH-BAE/ZexPilot
 ## Where I'm going
 Right now I'm really an amateur, but my goal is to learn a lot of languages (Wanna expand that tech stack!) and learn the languages properly to be a good developer
 (I really sound like a total amateur..)
+
+## My contact
+
+**Email** : james20144@outlook.com
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
