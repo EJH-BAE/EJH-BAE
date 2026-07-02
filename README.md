@@ -51,8 +51,8 @@
 ---
 ## Contact
 
-**Email** : james20144@outlook.com
-**Github** : (@EJH-BAE)[https://github.com/EJH-BAE]
+- **Email** : james20144@outlook.com
+- **Github** : (@EJH-BAE)[https://github.com/EJH-BAE]
 
 ---
 
