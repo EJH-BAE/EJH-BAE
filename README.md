@@ -44,13 +44,16 @@
 |:--:|:--|:--|
 | 2025 | International Robot Olympiad Korea Open (Daegu, Mission Challenge) | 🥇 1st Place |
 | 2024 | International Robot Olympiad (Busan, Robot Athletics) | 🥉 3rd Place |
-| 2023 | International Robot Olympiad Korea Open (Daegu, Robot Gathering) | 🏅 4th Place |
+| 2023 | International Robot Olympiad Korea Open (Daegu, Robot Gathering) | 🏅 4th Place 
+
 ---
 
 ---
 ## Contact
+
 **Email** : james20144@outlook.com
 **Github** : (@EJH-BAE)[https://github.com/EJH-BAE]
+
 ---
 
 
