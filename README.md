@@ -28,6 +28,7 @@
 ## Competitions
 | Year | Contest Name | Result |
 |:--:|:--|:--|
+| 2026 | The 2026 Youth IT Symposium (Big Data and AI) | 🏅 4th Place |
 | 2026 | The 1st K-Youth AI Competition (Seongnam, Robot Athletics) | 🥇 1st Place |
 | 2026 | The 1st K-Youth AI Competition (Seongnam, AI Autonomous Driving) |🏅 4th Place |
 | 2025 | International Robot Olympiad Korea Open (Daegu, Mission Challenge) | 🥇 1st Place |
