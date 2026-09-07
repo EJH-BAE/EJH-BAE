@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/AVR-EE4C2C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=Autodesk"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
