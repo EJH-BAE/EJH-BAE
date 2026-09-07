@@ -29,13 +29,14 @@
 ## Competitions
 | Year | Contest Name | Result |
 |:--:|:--|:--|
-| 2026 | International Robot Olympiad Korea Open (Daejeon, AI Football) | 🥇 1th Place |
-| 2026 | International Robot Olympiad Korea Open (Daejeon, Robot Curling) | 🥉 3th Place |
+| 2026 | International Robot Olympiad Korea Open (Daejeon, AI Football) | 🥇 1st Place |
+| 2026 | International Robot Olympiad Korea Open (Daejeon, Robot Curling) | 🥉 3rd Place |
 | 2026 | The 2026 Youth IT Symposium (Big Data and AI) | 🏅 4th Place |
 | 2026 | The 1st K-Youth AI Competition (Seongnam, Robot Athletics) | 🥇 1st Place |
-| 2026 | The 1st K-Youth AI Competition (Seongnam, AI Autonomous Driving) |🏅 4th Place |
+| 2026 | The 1st K-Youth AI Competition (Seongnam, AI Autonomous Driving) | 🏅 4th Place |
 | 2025 | International Robot Olympiad Korea Open (Daegu, Mission Challenge) | 🥇 1st Place |
 | 2024 | International Robot Olympiad (Busan, Robot Athletics) | 🥉 3rd Place |
+| 2024 | International Robot Olympiad Korea Open (Daegu, Robot Athletics) | 🏅 4th Place |
 | 2023 | International Robot Olympiad Korea Open (Daegu, Robot Gathering) | 🏅 4th Place |
 
 ---
